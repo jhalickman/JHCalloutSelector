@@ -1,0 +1,346 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* JHCalloutSelectorButtonSampleProjectAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 540}}";
+			sepNavSelRange = "{1690, 0}";
+			sepNavVisRange = "{0, 2140}";
+		};
+	};
+	1D3623250D0F684500981E51 /* JHCalloutSelectorButtonSampleProjectAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 611}}";
+			sepNavSelRange = "{1690, 0}";
+			sepNavVisRange = "{0, 2168}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* JHCalloutSelectorButtonSampleProject */ = {
+		activeExec = 0;
+		executables = (
+			AB14BC6C105F02F800F9EC58 /* JHCalloutSelectorButtonSampleProject */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* JHCalloutSelectorButtonSampleProjectViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 540}}";
+			sepNavSelRange = "{1693, 0}";
+			sepNavVisRange = "{0, 2125}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* JHCalloutSelectorButtonSampleProjectViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 1209}}";
+			sepNavSelRange = "{159, 0}";
+			sepNavVisRange = "{0, 2169}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = AB14BC6C105F02F800F9EC58 /* JHCalloutSelectorButtonSampleProject */;
+		activeSDKPreference = iphonesimulator3.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* JHCalloutSelectorButtonSampleProject */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* JHCalloutSelectorButtonSampleProject */,
+		);
+		breakpoints = (
+			ABB5CA2A1065D38100C59A4E /* JHCalloutSelector.m:237 */,
+		);
+		codeSenseManager = AB14BC7C105F030F00F9EC58 /* Code sense */;
+		executables = (
+			AB14BC6C105F02F800F9EC58 /* JHCalloutSelectorButtonSampleProject */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					890,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					850,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 279261359;
+			PBXWorkspaceStateSaveDate = 279261359;
+		};
+		perUserProjectItems = {
+			AB14BC91105F073400F9EC58 /* PBXTextBookmark */ = AB14BC91105F073400F9EC58 /* PBXTextBookmark */;
+			ABB5CA501065D60500C59A4E /* PBXTextBookmark */ = ABB5CA501065D60500C59A4E /* PBXTextBookmark */;
+			ABB5CA5B1065D6F100C59A4E /* PBXTextBookmark */ = ABB5CA5B1065D6F100C59A4E /* PBXTextBookmark */;
+			ABB5CAE81065E04C00C59A4E /* PBXTextBookmark */ = ABB5CAE81065E04C00C59A4E /* PBXTextBookmark */;
+			ABCAD37210A5304B003EA223 /* PBXTextBookmark */ = ABCAD37210A5304B003EA223 /* PBXTextBookmark */;
+			ABCAD37310A5304B003EA223 /* PBXTextBookmark */ = ABCAD37310A5304B003EA223 /* PBXTextBookmark */;
+			ABCAD37410A5304B003EA223 /* PBXTextBookmark */ = ABCAD37410A5304B003EA223 /* PBXTextBookmark */;
+			ABCAD37510A5304B003EA223 /* PBXTextBookmark */ = ABCAD37510A5304B003EA223 /* PBXTextBookmark */;
+			ABCAD37610A5304B003EA223 /* PBXTextBookmark */ = ABCAD37610A5304B003EA223 /* PBXTextBookmark */;
+			ABCAD37710A5304B003EA223 /* PBXTextBookmark */ = ABCAD37710A5304B003EA223 /* PBXTextBookmark */;
+			ABCAD37810A5304B003EA223 /* PlistBookmark */ = ABCAD37810A5304B003EA223 /* PlistBookmark */;
+		};
+		sourceControlManager = AB14BC7B105F030F00F9EC58 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1068, 540}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 394}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* JHCalloutSelectorButtonSampleProject_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1068, 540}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 241}";
+		};
+	};
+	AB14BC6C105F02F800F9EC58 /* JHCalloutSelectorButtonSampleProject */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = JHCalloutSelectorButtonSampleProject;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	AB14BC7B105F030F00F9EC58 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	AB14BC7C105F030F00F9EC58 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	AB14BC91105F073400F9EC58 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AB14BC92105F073400F9EC58 /* UIButton.h */;
+		name = "UIButton.h: 26";
+		rLen = 8;
+		rLoc = 633;
+		rType = 0;
+		vrLen = 1074;
+		vrLoc = 319;
+	};
+	AB14BC92105F073400F9EC58 /* UIButton.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIButton.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIButton.h;
+		sourceTree = "<absolute>";
+	};
+	AB14BC96105F076500F9EC58 /* JHCalloutSelector.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JHCalloutSelector.m;
+		path = /Users/jhalickman/Code/iPhone/JHCalloutSelectorButtonSampleProject/JHCalloutSelector.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 3731}}";
+			sepNavSelRange = "{1660, 0}";
+			sepNavVisRange = "{0, 2109}";
+		};
+	};
+	ABB5CA2A1065D38100C59A4E /* JHCalloutSelector.m:237 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = AB14BC96105F076500F9EC58 /* JHCalloutSelector.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 237;
+		modificationTime = 277483477.649098;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	ABB5CA501065D60500C59A4E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ABB5CA511065D60500C59A4E /* UIAlert.h */;
+		name = "UIAlert.h: 233";
+		rLen = 240;
+		rLoc = 10099;
+		rType = 0;
+		vrLen = 1679;
+		vrLoc = 9336;
+	};
+	ABB5CA511065D60500C59A4E /* UIAlert.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIAlert.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlert.h;
+		sourceTree = "<absolute>";
+	};
+	ABB5CA5B1065D6F100C59A4E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ABB5CA5C1065D6F100C59A4E /* NSObjCRuntime.h */;
+		name = "NSObjCRuntime.h: 136";
+		rLen = 23;
+		rLoc = 4558;
+		rType = 0;
+		vrLen = 1210;
+		vrLoc = 4052;
+	};
+	ABB5CA5C1065D6F100C59A4E /* NSObjCRuntime.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObjCRuntime.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h;
+		sourceTree = "<absolute>";
+	};
+	ABB5CAE81065E04C00C59A4E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ABB5CAE91065E04C00C59A4E /* UIBarButtonItem.h */;
+		name = "UIBarButtonItem.h: 47";
+		rLen = 60;
+		rLoc = 1283;
+		rType = 0;
+		vrLen = 1146;
+		vrLoc = 136;
+	};
+	ABB5CAE91065E04C00C59A4E /* UIBarButtonItem.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIBarButtonItem.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIBarButtonItem.h;
+		sourceTree = "<absolute>";
+	};
+	ABCAD37210A5304B003EA223 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* JHCalloutSelectorButtonSampleProjectAppDelegate.h */;
+		name = "JHCalloutSelectorButtonSampleProjectAppDelegate.h: 24";
+		rLen = 0;
+		rLoc = 1690;
+		rType = 0;
+		vrLen = 2140;
+		vrLoc = 0;
+	};
+	ABCAD37310A5304B003EA223 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* JHCalloutSelectorButtonSampleProjectAppDelegate.m */;
+		name = "JHCalloutSelectorButtonSampleProjectAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 1690;
+		rType = 0;
+		vrLen = 2168;
+		vrLoc = 0;
+	};
+	ABCAD37410A5304B003EA223 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* JHCalloutSelectorButtonSampleProjectViewController.h */;
+		name = "JHCalloutSelectorButtonSampleProjectViewController.h: 24";
+		rLen = 0;
+		rLoc = 1693;
+		rType = 0;
+		vrLen = 2125;
+		vrLoc = 0;
+	};
+	ABCAD37510A5304B003EA223 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JHCalloutSelectorButtonSampleProjectViewController.m */;
+		name = "JHCalloutSelectorButtonSampleProjectViewController.m: 6";
+		rLen = 0;
+		rLoc = 159;
+		rType = 0;
+		vrLen = 2169;
+		vrLoc = 0;
+	};
+	ABCAD37610A5304B003EA223 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* JHCalloutSelectorButtonSampleProject_Prefix.pch */;
+		name = "JHCalloutSelectorButtonSampleProject_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 241;
+		vrLoc = 0;
+	};
+	ABCAD37710A5304B003EA223 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 394;
+		vrLoc = 0;
+	};
+	ABCAD37810A5304B003EA223 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* JHCalloutSelectorButtonSampleProject-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jhalickman/Code/iPhone/JHCalloutSelectorButtonSampleProject/JHCalloutSelectorButtonSampleProject-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+}
